@@ -2,7 +2,7 @@
 ---
 name: Feature request
 description: >-
-    Suggest a new feature or enhancement for dashboard-django.
+    Suggest a new feature or enhancement.
 labels:
     - enhancement
 
@@ -10,7 +10,7 @@ body:
     - type: markdown
       attributes:
           value: >
-              ## Thank you for helping us improve dashboard-django!
+              ## Thank you for helping us improve!
 
               * Please first verify that your feature request has not already been reported using the
               [Issue search][issue search].
@@ -21,11 +21,11 @@ body:
               * If you prefer a non-templated issue report, click [here][Raw report].
 
 
-              [Discussions]: https://github.com/BlackLigo/dashboard-django/discussions
+              [Discussions]: https://github.com/mahausmani/deep-learning/discussions
 
-              [issue search]: https://github.com/BlackLigo/dashboard-django/search?q=is%3Aissue&type=issues
+              [issue search]: https://github.com/mahausmani/deep-learning/search?q=is%3Aissue&type=issues
 
-              [Raw report]: http://github.com/BlackLigo/dashboard-django/issues/new
+              [Raw report]: http://github.com/mahausmani/deep-learning/issues/new
     - type: textarea
       attributes:
           label: Description
